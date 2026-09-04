@@ -1,14 +1,14 @@
-\ Algoritma Pemrograman 2026
+Algoritma Pemrograman 2026
 
 
 
-\Nama:\ Mutiara Sari  
+Nama: Mutiara Sari  
 
-\NIM:\ 2225250071
+NIM: 2225250071
 
 
 
-\ Isi Repository
+Isi Repository
 
 
 
@@ -16,7 +16,7 @@ Repository ini berisi kumpulan tugas mata kuliah Algoritma Pemrograman 2026.
 
 
 
-\ Pertemuan-01
+Pertemuan-01
 
 
 
